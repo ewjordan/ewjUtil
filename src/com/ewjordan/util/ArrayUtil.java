@@ -16,7 +16,7 @@ public class ArrayUtil {
 		}
 	}
 	
-	public static List<Double> toDoubleList(int[] intarr) {
+	static public List<Double> toDoubleList(int[] intarr) {
 		ArrayList<Double> doubles = new ArrayList<Double>();
 		for (int i=0; i<intarr.length; ++i) {
 			doubles.add((double)intarr[i]);
@@ -24,7 +24,7 @@ public class ArrayUtil {
 		return doubles;
 	}
 	
-	public static double[] toDoubleArray(List<? extends Number> list) {
+	static public double[] toDoubleArray(List<? extends Number> list) {
 		double[] arr = new double[list.size()];
 		for (int i=0; i<list.size(); ++i) {
 			arr[i] = list.get(i).doubleValue();
@@ -32,7 +32,7 @@ public class ArrayUtil {
 		return arr;
 	}
 	
-	public static double[] toDoubleArray(DoubleList list) {
+	static public double[] toDoubleArray(DoubleList list) {
 		double[] arr = new double[list.size()];
 		for (int i=0; i<list.size(); ++i) {
 			arr[i] = (double)list.get(i);
