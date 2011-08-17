@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/inference
+END
+TestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/inference/TestUtils.java
+END
+TTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/inference/TTest.java
+END
+ChiSquareTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/inference/ChiSquareTest.java
+END
+UnknownDistributionChiSquareTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/inference/UnknownDistributionChiSquareTest.java
+END
+TTestImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/inference/TTestImpl.java
+END
+ChiSquareTestImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java
+END
+MannWhitneyUTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/inference/MannWhitneyUTest.java
+END
+OneWayAnova.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/inference/OneWayAnova.java
+END
+MannWhitneyUTestImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/inference/MannWhitneyUTestImpl.java
+END
+WilcoxonSignedRankTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/inference/WilcoxonSignedRankTest.java
+END
+OneWayAnovaImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/inference/OneWayAnovaImpl.java
+END
+WilcoxonSignedRankTestImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/inference/WilcoxonSignedRankTestImpl.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/799870/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/inference/package.html
+END

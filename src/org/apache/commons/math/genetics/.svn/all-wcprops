@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/genetics
+END
+ElitisticListPopulation.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/genetics/ElitisticListPopulation.java
+END
+OnePointCrossover.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/genetics/OnePointCrossover.java
+END
+TournamentSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/genetics/TournamentSelection.java
+END
+PermutationChromosome.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/genetics/PermutationChromosome.java
+END
+CrossoverPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/genetics/CrossoverPolicy.java
+END
+BinaryMutation.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/genetics/BinaryMutation.java
+END
+SelectionPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/genetics/SelectionPolicy.java
+END
+RandomKeyMutation.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/genetics/RandomKeyMutation.java
+END
+StoppingCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/genetics/StoppingCondition.java
+END
+Fitness.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/genetics/Fitness.java
+END
+Chromosome.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/genetics/Chromosome.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/799870/commons/proper/math/trunk/src/main/java/org/apache/commons/math/genetics/package.html
+END
+MutationPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/genetics/MutationPolicy.java
+END
+BinaryChromosome.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/genetics/BinaryChromosome.java
+END
+FixedGenerationCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/genetics/FixedGenerationCount.java
+END
+GeneticAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/genetics/GeneticAlgorithm.java
+END
+ListPopulation.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/genetics/ListPopulation.java
+END
+ChromosomePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/genetics/ChromosomePair.java
+END
+InvalidRepresentationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/genetics/InvalidRepresentationException.java
+END
+RandomKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/genetics/RandomKey.java
+END
+Population.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/genetics/Population.java
+END
+AbstractListChromosome.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/genetics/AbstractListChromosome.java
+END

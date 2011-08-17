@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/integration
+END
+TrapezoidIntegrator.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/integration/TrapezoidIntegrator.java
+END
+LegendreGaussIntegrator.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/integration/LegendreGaussIntegrator.java
+END
+SimpsonIntegrator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/integration/SimpsonIntegrator.java
+END
+UnivariateRealIntegrator.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/integration/UnivariateRealIntegrator.java
+END
+RombergIntegrator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/integration/RombergIntegrator.java
+END
+UnivariateRealIntegratorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/integration/UnivariateRealIntegratorImpl.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/811685/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/integration/package.html
+END

@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution
+END
+DiscreteDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/DiscreteDistribution.java
+END
+WeibullDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/WeibullDistribution.java
+END
+GammaDistributionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/GammaDistributionImpl.java
+END
+FDistributionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/FDistributionImpl.java
+END
+HypergeometricDistributionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/HypergeometricDistributionImpl.java
+END
+ExponentialDistributionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/ExponentialDistributionImpl.java
+END
+ZipfDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/ZipfDistribution.java
+END
+BetaDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/BetaDistribution.java
+END
+BinomialDistributionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/BinomialDistributionImpl.java
+END
+CauchyDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/CauchyDistribution.java
+END
+Distribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/Distribution.java
+END
+GammaDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/GammaDistribution.java
+END
+PascalDistributionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/PascalDistributionImpl.java
+END
+FDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/FDistribution.java
+END
+TDistributionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java
+END
+HypergeometricDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/HypergeometricDistribution.java
+END
+ExponentialDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/ExponentialDistribution.java
+END
+BinomialDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/BinomialDistribution.java
+END
+IntegerDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/IntegerDistribution.java
+END
+KolmogorovSmirnovDistributionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/KolmogorovSmirnovDistributionImpl.java
+END
+PascalDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/PascalDistribution.java
+END
+AbstractDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/AbstractDistribution.java
+END
+TDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/TDistribution.java
+END
+ContinuousDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/ContinuousDistribution.java
+END
+NormalDistributionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/NormalDistributionImpl.java
+END
+ChiSquaredDistributionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/ChiSquaredDistributionImpl.java
+END
+PoissonDistributionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/PoissonDistributionImpl.java
+END
+KolmogorovSmirnovDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/KolmogorovSmirnovDistribution.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/799870/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/package.html
+END
+AbstractIntegerDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/AbstractIntegerDistribution.java
+END
+WeibullDistributionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/WeibullDistributionImpl.java
+END
+NormalDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/NormalDistribution.java
+END
+ChiSquaredDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/ChiSquaredDistribution.java
+END
+PoissonDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/PoissonDistribution.java
+END
+AbstractContinuousDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java
+END
+ZipfDistributionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/ZipfDistributionImpl.java
+END
+SaddlePointExpansion.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/SaddlePointExpansion.java
+END
+BetaDistributionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/BetaDistributionImpl.java
+END
+CauchyDistributionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/distribution/CauchyDistributionImpl.java
+END

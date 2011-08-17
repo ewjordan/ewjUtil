@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception
+END
+MathInternalError.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/MathInternalError.java
+END
+NotStrictlyPositiveException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/NotStrictlyPositiveException.java
+END
+NumberIsTooLargeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/NumberIsTooLargeException.java
+END
+MathThrowable.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/MathThrowable.java
+END
+MathUnsupportedOperationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/MathUnsupportedOperationException.java
+END
+NotPositiveException.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/NotPositiveException.java
+END
+MathParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/MathParseException.java
+END
+MathIllegalStateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java
+END
+NonMonotonousSequenceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/NonMonotonousSequenceException.java
+END
+MaxCountExceededException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/MaxCountExceededException.java
+END
+MultiDimensionMismatchException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/MultiDimensionMismatchException.java
+END
+MathIllegalArgumentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/MathIllegalArgumentException.java
+END
+MathUserException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/MathUserException.java
+END
+MathIllegalNumberException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/MathIllegalNumberException.java
+END
+MathRuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/MathRuntimeException.java
+END
+ConvergenceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/ConvergenceException.java
+END
+NumberIsTooSmallException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/NumberIsTooSmallException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/981404/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/package.html
+END
+TooManyEvaluationsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/TooManyEvaluationsException.java
+END
+MathArithmeticException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/MathArithmeticException.java
+END
+NoDataException.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/NoDataException.java
+END
+NoBracketingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/NoBracketingException.java
+END
+NotFiniteNumberException.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/NotFiniteNumberException.java
+END
+OutOfRangeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/OutOfRangeException.java
+END
+DimensionMismatchException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/DimensionMismatchException.java
+END
+NullArgumentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/NullArgumentException.java
+END
+ZeroException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/ZeroException.java
+END

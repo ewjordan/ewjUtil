@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/direct
+END
+NelderMeadSimplex.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/direct/NelderMeadSimplex.java
+END
+SimplexOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/direct/SimplexOptimizer.java
+END
+AbstractSimplex.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/direct/AbstractSimplex.java
+END
+PowellOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/direct/PowellOptimizer.java
+END
+BaseAbstractScalarOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/direct/BaseAbstractScalarOptimizer.java
+END
+BaseAbstractVectorialOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/direct/BaseAbstractVectorialOptimizer.java
+END
+MultiDirectionalSimplex.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/direct/MultiDirectionalSimplex.java
+END
+CMAESOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/direct/CMAESOptimizer.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/799870/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/direct/package.html
+END

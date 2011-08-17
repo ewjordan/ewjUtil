@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/univariate
+END
+AbstractUnivariateRealOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java
+END
+BracketFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/univariate/BracketFinder.java
+END
+MultiStartUnivariateRealOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/univariate/MultiStartUnivariateRealOptimizer.java
+END
+BaseUnivariateRealOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/univariate/BaseUnivariateRealOptimizer.java
+END
+BrentOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/univariate/BrentOptimizer.java
+END
+UnivariateRealOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/univariate/UnivariateRealOptimizer.java
+END
+UnivariateRealPointValuePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/univariate/UnivariateRealPointValuePair.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/811685/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/univariate/package.html
+END

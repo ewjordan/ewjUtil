@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/threed
+END
+CardanEulerSingularityException.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/threed/CardanEulerSingularityException.java
+END
+Plane.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/threed/Plane.java
+END
+Rotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java
+END
+Euclidean3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/threed/Euclidean3D.java
+END
+PolyhedronsSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/threed/PolyhedronsSet.java
+END
+Vector3DFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/threed/Vector3DFormat.java
+END
+NotARotationMatrixException.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/threed/NotARotationMatrixException.java
+END
+Line.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/threed/Line.java
+END
+SubPlane.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/threed/SubPlane.java
+END
+Vector3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1131152/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/threed/Vector3D.java
+END
+OutlineExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/threed/OutlineExtractor.java
+END
+RotationOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/threed/RotationOrder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1124619/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/threed/package.html
+END

@@ -25,11 +25,13 @@ public class PrimitiveReferenceIntoArray extends PrimitiveReference {
 		return new PrimitiveReferenceIntoArray(this);
 	}
 	
-	public PrimitiveReferenceIntoArray(ReferenceType type, Object object, Field arrayField, int arrayIndex) {
-		super(type, object, arrayField);
+	public PrimitiveReferenceIntoArray(ReferenceType type, Object object, Field arrayField, int arrayIndex, double minValue, double maxValue, double stdDev) {
+		super(type, object, arrayField, minValue, maxValue, stdDev);
 		if (!arrayField.getType().isArray()) throw new IllegalArgumentException();
 		this.indexInArray = arrayIndex;
 	}
+	
+	
 	
 	public void set(float newValue) throws IllegalArgumentException, IllegalAccessException {
 		((float[])field.get(object))[indexInArray] = newValue;
@@ -65,6 +67,10 @@ public class PrimitiveReferenceIntoArray extends PrimitiveReference {
 	}
 	public boolean getBoolean() throws IllegalArgumentException, IllegalAccessException {
 		return ((boolean[])field.get(object))[indexInArray];
+	}
+	
+	public boolean isArrayMember() {
+		return true;
 	}
 }
 

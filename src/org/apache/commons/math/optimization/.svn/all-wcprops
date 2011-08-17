@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization
+END
+MultiStartDifferentiableMultivariateVectorialOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/MultiStartDifferentiableMultivariateVectorialOptimizer.java
+END
+DifferentiableMultivariateRealOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/DifferentiableMultivariateRealOptimizer.java
+END
+BaseMultiStartMultivariateRealOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/BaseMultiStartMultivariateRealOptimizer.java
+END
+SimpleScalarValueChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/SimpleScalarValueChecker.java
+END
+SimpleVectorialPointChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/SimpleVectorialPointChecker.java
+END
+LeastSquaresConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/LeastSquaresConverter.java
+END
+OptimizationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/OptimizationException.java
+END
+MultiStartMultivariateRealOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/MultiStartMultivariateRealOptimizer.java
+END
+DifferentiableMultivariateVectorialOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/DifferentiableMultivariateVectorialOptimizer.java
+END
+BaseMultiStartMultivariateVectorialOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/BaseMultiStartMultivariateVectorialOptimizer.java
+END
+RealPointValuePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/RealPointValuePair.java
+END
+AbstractConvergenceChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/AbstractConvergenceChecker.java
+END
+BaseMultivariateRealOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/BaseMultivariateRealOptimizer.java
+END
+VectorialPointValuePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/VectorialPointValuePair.java
+END
+MultivariateRealOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/MultivariateRealOptimizer.java
+END
+BaseOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/BaseOptimizer.java
+END
+BaseMultivariateVectorialOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/BaseMultivariateVectorialOptimizer.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/990792/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/package.html
+END
+ConvergenceChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/ConvergenceChecker.java
+END
+GoalType.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/GoalType.java
+END
+SimpleVectorialValueChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/SimpleVectorialValueChecker.java
+END
+MultiStartDifferentiableMultivariateRealOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/MultiStartDifferentiableMultivariateRealOptimizer.java
+END
+SimpleRealPointChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/SimpleRealPointChecker.java
+END
+VectorialConvergenceChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/optimization/VectorialConvergenceChecker.java
+END

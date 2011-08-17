@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/oned
+END
+Vector1DFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/oned/Vector1DFormat.java
+END
+IntervalsSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1131153/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/oned/IntervalsSet.java
+END
+OrientedPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1131153/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/oned/OrientedPoint.java
+END
+Interval.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/oned/Interval.java
+END
+Vector1D.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1131152/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/oned/Vector1D.java
+END
+SubOrientedPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1131153/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/oned/SubOrientedPoint.java
+END
+Euclidean1D.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/oned/Euclidean1D.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1124619/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/oned/package.html
+END

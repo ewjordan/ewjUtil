@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/ode
+END
+AbstractIntegrator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/ode/AbstractIntegrator.java
+END
+FirstOrderIntegrator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/ode/FirstOrderIntegrator.java
+END
+MultistepIntegrator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/ode/MultistepIntegrator.java
+END
+ODEIntegrator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/ode/ODEIntegrator.java
+END
+SecondOrderIntegrator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/ode/SecondOrderIntegrator.java
+END
+ContinuousOutputModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/ode/ContinuousOutputModel.java
+END
+FirstOrderDifferentialEquations.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/ode/FirstOrderDifferentialEquations.java
+END
+ExtendedFirstOrderDifferentialEquations.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/ode/ExtendedFirstOrderDifferentialEquations.java
+END
+FirstOrderConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/ode/FirstOrderConverter.java
+END
+IntegratorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/ode/IntegratorException.java
+END
+SecondOrderDifferentialEquations.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/ode/SecondOrderDifferentialEquations.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/920131/commons/proper/math/trunk/src/main/java/org/apache/commons/math/ode/package.html
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/interpolation
+END
+NevilleInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/interpolation/NevilleInterpolator.java
+END
+SmoothingPolynomialBicubicSplineInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/interpolation/SmoothingPolynomialBicubicSplineInterpolator.java
+END
+MultivariateRealInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/interpolation/MultivariateRealInterpolator.java
+END
+LinearInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/interpolation/LinearInterpolator.java
+END
+UnivariateRealInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/interpolation/UnivariateRealInterpolator.java
+END
+BicubicSplineInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/interpolation/BicubicSplineInterpolator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/811685/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/interpolation/package.html
+END
+BicubicSplineInterpolatingFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/interpolation/BicubicSplineInterpolatingFunction.java
+END
+TricubicSplineInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/interpolation/TricubicSplineInterpolator.java
+END
+MicrosphereInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/interpolation/MicrosphereInterpolator.java
+END
+BivariateRealGridInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/interpolation/BivariateRealGridInterpolator.java
+END
+TricubicSplineInterpolatingFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/interpolation/TricubicSplineInterpolatingFunction.java
+END
+MicrosphereInterpolatingFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/interpolation/MicrosphereInterpolatingFunction.java
+END
+DividedDifferenceInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/interpolation/DividedDifferenceInterpolator.java
+END
+TrivariateRealGridInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/interpolation/TrivariateRealGridInterpolator.java
+END
+LoessInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/interpolation/LoessInterpolator.java
+END
+SplineInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/interpolation/SplineInterpolator.java
+END
+UnivariateRealPeriodicInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1097426/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/interpolation/UnivariateRealPeriodicInterpolator.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/util
+END
+Localizable.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/util/Localizable.java
+END
+LocalizedFormats.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java
+END
+ExceptionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1099771/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/util/ExceptionContext.java
+END
+ArgUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/util/ArgUtils.java
+END
+DummyLocalizable.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/util/DummyLocalizable.java
+END
+ExceptionContextProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1099771/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/util/ExceptionContextProvider.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1054315/commons/proper/math/trunk/src/main/java/org/apache/commons/math/exception/util/package.html
+END

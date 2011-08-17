@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis
+END
+MultivariateMatrixFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/MultivariateMatrixFunction.java
+END
+UnivariateMatrixFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/UnivariateMatrixFunction.java
+END
+DifferentiableMultivariateRealFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/DifferentiableMultivariateRealFunction.java
+END
+DifferentiableUnivariateRealFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/DifferentiableUnivariateRealFunction.java
+END
+FunctionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/FunctionUtils.java
+END
+DifferentiableMultivariateVectorialFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/DifferentiableMultivariateVectorialFunction.java
+END
+DifferentiableUnivariateVectorialFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/DifferentiableUnivariateVectorialFunction.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/811685/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/package.html
+END
+MultivariateRealFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/MultivariateRealFunction.java
+END
+BivariateRealFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/BivariateRealFunction.java
+END
+UnivariateRealFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/UnivariateRealFunction.java
+END
+TrivariateRealFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/TrivariateRealFunction.java
+END
+MultivariateVectorialFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/MultivariateVectorialFunction.java
+END
+DifferentiableUnivariateMatrixFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/DifferentiableUnivariateMatrixFunction.java
+END
+UnivariateVectorialFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/UnivariateVectorialFunction.java
+END
+ParametricUnivariateRealFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/ParametricUnivariateRealFunction.java
+END

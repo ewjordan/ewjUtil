@@ -8,5 +8,9 @@ package com.ewjordan.util.objectWrap;
  *
  */
 public enum ReferenceType {
-	INT, LONG, FLOAT, DOUBLE, BOOLEAN
+	INT, 
+	LONG, 
+	FLOAT, 
+	DOUBLE, 
+	BOOLEAN
 }

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/twod
+END
+Euclidean2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/twod/Euclidean2D.java
+END
+NestedLoops.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1131153/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/twod/NestedLoops.java
+END
+SubLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/twod/SubLine.java
+END
+Vector2DFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/twod/Vector2DFormat.java
+END
+Segment.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/twod/Segment.java
+END
+PolygonsSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1131153/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/twod/PolygonsSet.java
+END
+Line.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1131153/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/twod/Line.java
+END
+Vector2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1131152/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/twod/Vector2D.java
+END
+SegmentBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/twod/SegmentBuilder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1124619/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/euclidean/twod/package.html
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry
+END
+Vector.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1131152/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/Vector.java
+END
+Space.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/Space.java
+END
+VectorFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1131153/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/VectorFormat.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1131123/commons/proper/math/trunk/src/main/java/org/apache/commons/math/geometry/package.html
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/descriptive
+END
+UnivariateStatistic.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/descriptive/UnivariateStatistic.java
+END
+SynchronizedMultivariateSummaryStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedMultivariateSummaryStatistics.java
+END
+MultivariateSummaryStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/descriptive/MultivariateSummaryStatistics.java
+END
+StatisticalSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummary.java
+END
+StorelessUnivariateStatistic.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/descriptive/StorelessUnivariateStatistic.java
+END
+SynchronizedSummaryStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedSummaryStatistics.java
+END
+SummaryStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/811685/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/descriptive/package.html
+END
+AggregateSummaryStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/descriptive/AggregateSummaryStatistics.java
+END
+StatisticalSummaryValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/descriptive/StatisticalSummaryValues.java
+END
+AbstractUnivariateStatistic.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java
+END
+AbstractStorelessUnivariateStatistic.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/descriptive/AbstractStorelessUnivariateStatistic.java
+END
+WeightedEvaluation.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/descriptive/WeightedEvaluation.java
+END
+StatisticalMultivariateSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/descriptive/StatisticalMultivariateSummary.java
+END
+DescriptiveStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/descriptive/DescriptiveStatistics.java
+END
+SynchronizedDescriptiveStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/stat/descriptive/SynchronizedDescriptiveStatistics.java
+END

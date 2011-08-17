@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/solvers
+END
+LaguerreSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/solvers/LaguerreSolver.java
+END
+BaseUnivariateRealSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/solvers/BaseUnivariateRealSolver.java
+END
+AbstractPolynomialSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/solvers/AbstractPolynomialSolver.java
+END
+NewtonSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/solvers/NewtonSolver.java
+END
+BrentSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
+END
+UnivariateRealSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolver.java
+END
+SecantSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/solvers/SecantSolver.java
+END
+BisectionSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/solvers/BisectionSolver.java
+END
+MullerSolver2.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/solvers/MullerSolver2.java
+END
+PolynomialSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/solvers/PolynomialSolver.java
+END
+AbstractDifferentiableUnivariateRealSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/solvers/AbstractDifferentiableUnivariateRealSolver.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/811685/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/solvers/package.html
+END
+BaseAbstractUnivariateRealSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java
+END
+RiddersSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/solvers/RiddersSolver.java
+END
+UnivariateRealSolverUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java
+END
+DifferentiableUnivariateRealSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/solvers/DifferentiableUnivariateRealSolver.java
+END
+AbstractUnivariateRealSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/solvers/AbstractUnivariateRealSolver.java
+END
+MullerSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1131229/commons/proper/math/trunk/src/main/java/org/apache/commons/math/analysis/solvers/MullerSolver.java
+END
