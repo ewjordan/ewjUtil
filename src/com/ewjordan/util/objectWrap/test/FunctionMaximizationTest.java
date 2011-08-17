@@ -1,6 +1,5 @@
 package com.ewjordan.util.objectWrap.test;
 
-import org.apache.commons.math.FunctionEvaluationException;
 import org.apache.commons.math.optimization.GoalType;
 import org.apache.commons.math.optimization.OptimizationException;
 
@@ -9,7 +8,7 @@ import com.ewjordan.util.objectWrap.OptimizableWrappedObject;
 import com.ewjordan.util.objectWrap.WrappedObject;
 
 public class FunctionMaximizationTest {
-	static public void main(String[] args) throws OptimizationException, FunctionEvaluationException, IllegalArgumentException {
+	static public void main(String[] args) throws OptimizationException, IllegalArgumentException {
 		PolynomialFunction func = new PolynomialFunction(1,0,-4,0,4);
 		WrappedObject w = new WrappedObject(func);
 		OptimizableWrappedObject obj = w.optimizable();

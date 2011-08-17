@@ -397,19 +397,21 @@ public class SimpleIO {
 	    }
 	}
 	
-	/** Append a string to the end of a file, followed by a newline. */
-	static public void appendToFile(String string, final String _filename) {
+	/** Append a string to the end of a file, followed by a newline. Returns true if successful.*/
+	static public boolean appendToFile(String string, final String _filename) {
 		BufferedWriter out = null;
 		String filename = getOutputPath(_filename);
+		boolean retval;
 		try {
 			out = new BufferedWriter(new FileWriter(filename,true),8192*4);
 //			out.newLine();
 			out.write(string);
 			out.newLine();
-			System.out.println("Appended string to "+filename);
+			retval = true;
 		} catch (Exception e) {
 	    	e.printStackTrace();
 	    	System.err.println("Could not save file: "+filename);
+	    	retval = false;
 	    } finally {
 	    	try{
 	    		if (out != null) {
@@ -420,6 +422,7 @@ public class SimpleIO {
 	    		e.printStackTrace();
 	    	}
 	    }
+	    return retval;
 	}
 	
 	/** Save a string to a text file. */

@@ -19,6 +19,7 @@ import org.apache.commons.math.optimization.GoalType;
 import org.apache.commons.math.optimization.OptimizationException;
 import org.apache.commons.math.optimization.RealPointValuePair;
 import org.apache.commons.math.optimization.direct.NelderMeadSimplex;
+import org.apache.commons.math.optimization.direct.SimplexOptimizer;
 import org.apache.commons.math.optimization.general.ConjugateGradientFormula;
 import org.apache.commons.math.optimization.general.NonLinearConjugateGradientOptimizer;
 
@@ -46,6 +47,14 @@ import org.apache.commons.math.optimization.general.NonLinearConjugateGradientOp
 public class ObjectOptimizer {
 	static private double derivativeDelta = 0.001;
 	static private final Random rand = new Random();
+	static private int maxIterations = 100;
+	
+	static public void setMaxIterations(int val) {
+		maxIterations = val;
+	}
+	
+	static public int getMaxIterations() { return maxIterations; }
+	
 	static private CrossoverPolicy defaultWrappedObjectCrossoverPolicy = new CrossoverPolicy() {
 		@Override
 		public ChromosomePair crossover(Chromosome first,
@@ -130,22 +139,22 @@ public class ObjectOptimizer {
 	
 	/** 
 	 * Optimize an OptimizableWrappedObject using the nonlinear conjugate gradient method.
-	 * Returns number of iterations, or -1 if an exception was thrown.
+	 * Returns number of evaluations, or -1 if an exception was thrown.
 	 * @throws IllegalArgumentException 
 	 * @throws FunctionEvaluationException 
 	 * @throws OptimizationException 
 	 * 
 	 */
-	static public final int optimize(final OptimizableWrappedObject opt, GoalType goalType) throws OptimizationException, FunctionEvaluationException, IllegalArgumentException {
+	static public final int optimize(final OptimizableWrappedObject opt, GoalType goalType) throws OptimizationException, IllegalArgumentException {
 		NonLinearConjugateGradientOptimizer optimizer = new NonLinearConjugateGradientOptimizer(ConjugateGradientFormula.FLETCHER_REEVES);
 		opt.pullValuesFromObject();
-		RealPointValuePair pair = optimizer.optimize(getDifferentiableMultivariateRealFunction(opt),goalType, opt.getValues());
+		RealPointValuePair pair = optimizer.optimize(maxIterations, getDifferentiableMultivariateRealFunction(opt),goalType, opt.getValues());
 		opt.setValues(pair.getPoint());
 		opt.pushValuesToObject();
-		return optimizer.getIterations();
+		return optimizer.getEvaluations();
 	}
 	
-	static public final double[] optimize(final MultivariateRealFunction func, GoalType goalType, final double[] startingPoint) throws FunctionEvaluationException, IllegalArgumentException {
+	static public final double[] optimize(final MultivariateRealFunction func, GoalType goalType, final double[] startingPoint) throws IllegalArgumentException {
 		Object funcPlusParam = new HasValue() {
 			MultivariateRealFunction f = func;
 			double[] param = startingPoint;
@@ -153,8 +162,6 @@ public class ObjectOptimizer {
 			public double getValue() {
 				try {
 					return f.value(param);
-				} catch (FunctionEvaluationException e) {
-					e.printStackTrace();
 				} catch (IllegalArgumentException e) {
 //					e.printStackTrace();
 				}
@@ -166,13 +173,7 @@ public class ObjectOptimizer {
 		NonLinearConjugateGradientOptimizer optimizer = new NonLinearConjugateGradientOptimizer(ConjugateGradientFormula.FLETCHER_REEVES);
 		opt.pullValuesFromObject();
 		RealPointValuePair pair = null;
-		try {
-			optimizer.setMaxIterations(10);
-			pair = optimizer.optimize(getDifferentiableMultivariateRealFunction(opt),goalType, opt.getValues());
-		} catch (OptimizationException e) {
-			return startingPoint;
-		}
-		
+		pair = optimizer.optimize(maxIterations, getDifferentiableMultivariateRealFunction(opt),goalType, opt.getValues());
 		return pair.getPoint();
 	}
 	
@@ -184,13 +185,15 @@ public class ObjectOptimizer {
 	 * @throws OptimizationException 
 	 * 
 	 */
-	static public final int optimizeNelderMead(final OptimizableWrappedObject opt, GoalType goalType) throws OptimizationException, FunctionEvaluationException, IllegalArgumentException {
-		NelderMeadSimplex optimizer = new NelderMeadSimplex(opt.getNumberOfMembers());
+	static public final int optimizeNelderMead(final OptimizableWrappedObject opt, GoalType goalType) throws OptimizationException, IllegalArgumentException {
+		NelderMeadSimplex nm = new NelderMeadSimplex(opt.getNumberOfMembers());
 		opt.pullValuesFromObject();
-		RealPointValuePair pair = optimizer.optimize(getDifferentiableMultivariateRealFunction(opt),goalType, opt.getValues());
+		SimplexOptimizer optimizer = new SimplexOptimizer();
+		optimizer.setSimplex(nm);
+		RealPointValuePair pair = optimizer.optimize(maxIterations, getDifferentiableMultivariateRealFunction(opt),goalType, opt.getValues());
 		opt.setValues(pair.getPoint());
 		opt.pushValuesToObject();
-		return optimizer.getIterations();
+		return optimizer.getEvaluations();
 	}
 	
 	static final MultivariateRealFunction getMultivariateRealFunction(final OptimizableWrappedObject opt) {
